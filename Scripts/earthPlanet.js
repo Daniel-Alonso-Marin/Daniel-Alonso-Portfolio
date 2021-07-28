@@ -10,7 +10,7 @@ let sSize;
 let canvas;
 
 function preload(){
-  img = loadImage('../Images/earth.jpg');
+  img = loadImage('Images/earth.jpg');
 }
 
 
