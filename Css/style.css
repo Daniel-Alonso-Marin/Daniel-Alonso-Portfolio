@@ -38,3 +38,17 @@ a{
     font-style: none;
     font-size: 20px;
 }
+
+#RRSS{
+    width: 85px;
+    position: absolute;
+    right: 0px;
+    top: 32%;
+}
+
+.RRSSicon{
+    width: 25px;
+    height: 25px;
+    display: block;
+    margin: 30px;
+}
